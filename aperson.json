@@ -1,0 +1,13 @@
+{
+  "name": "James Anderson",
+  "age": 33,
+  "hobbies": [
+    "coding in js and python",
+    "programming",
+    "programming"
+  ],
+  "address": {
+    "city": "New Delhi"
+  },
+  "email": "john.doe@example.com"
+}
